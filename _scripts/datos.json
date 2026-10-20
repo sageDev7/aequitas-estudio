@@ -1,0 +1,13 @@
+{
+  "sitio": "Aequitas Estudio Jurídico",
+  "titulo_corto": "Aequitas Estudio Jurídico",
+  "responsable": "Aequitas Estudio Jurídico (Dres. Walter Sánchez y Maximiliano Gallo Cabrera)",
+  "domicilio": "Coronel Suárez 2717, Olavarría, Provincia de Buenos Aires",
+  "email": "",
+  "telefono": "+54 9 2284 30-8672",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-red",
+  "theme_color": "#141414",
+  "css": {"fondo": "#fff", "fondo_hero": "var(--gray)", "texto_hero": "var(--black)", "acento": "var(--red)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
